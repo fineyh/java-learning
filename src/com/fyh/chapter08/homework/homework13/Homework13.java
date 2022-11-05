@@ -1,7 +1,5 @@
 package com.fyh.chapter08.homework.homework13;
 
-import java.util.function.Predicate;
-
 public class Homework13 {
     public static void main(String[] args) {
         Student student = new Student("小明", '男', 15, "00023102");
