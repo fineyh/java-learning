@@ -12,7 +12,7 @@ class Exception02 {
             if (names[1].equals("tom")) {//空指针
                 System.out.println(names[1]);
             } else {
-                names[3] = "hspedu";
+                names[3] = "jerry";
             }
             return 1;
         } catch (ArrayIndexOutOfBoundsException e) {

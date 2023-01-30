@@ -33,7 +33,7 @@ class Outer10 { //外部类
     //4. 可以添加任意访问修饰符(public、protected 、默认、private),因为它的地位就是一个成员
     //5. 作用域 ：同其他的成员，为整个类体
     static class Inner10 {
-        private static String name = "韩顺平教育";
+        private static String name = "tom";
         public void say() {
             //如果外部类和静态内部类的成员重名时，静态内部类访问的时，
             //默认遵循就近原则，如果想访问外部类的成员，则可以使用 （外部类名.成员）
